@@ -3,9 +3,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jhullyolires@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhully-aires/)
 
-![Aires GitHub stats](https://github-readme-stats.vercel.app/api?username=jhullyAires&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyAires)](https://github.com/jhullyAires/github-readme-stats)
+![Aires GitHub stats](https://github-readme-stats.vercel.app/api?username=jhullyAires&show_icons=true&theme=dracula)
 
 ### 👩‍💻 Tecnologias que eu uso e estudo no meu dia a dia 💡
 
@@ -16,3 +14,4 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div> <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyAires)](https://github.com/jhullyAires/github-readme-stats)
