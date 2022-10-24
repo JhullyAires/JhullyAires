@@ -1,9 +1,13 @@
-### Olá! Eu sou a Jhully Aires👋 
-💖 mais uma apaixonada por programação 💖 <br/> 💻 Atualmente trabalhando como Desenvolvedora Java Jr
+### Olá! Eu sou a Jhully Aires👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jhullyolires@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhully-aires/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jhully.aires)
 
-![Aires GitHub stats](https://github-readme-stats.vercel.app/api?username=jhullyAires&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/jhullyAires">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhullyAires&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyAires&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### 👩‍💻 Tecnologias que eu uso e estudo no meu dia a dia 💡
 
@@ -12,6 +16,11 @@
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-</div> <br/>
+    <img align="right" alt="Jhully-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/185559cb038b3021107f7f67d19db9d5.gif">
+    </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhullyAires)](https://github.com/jhullyAires/github-readme-stats)
+💖 mais uma apaixonada por programação 💖 <br/>
+
+👩‍💻 Atualmente trabalhando como Desenvolvedora Java Jr
+
+![Snake animation](https://github.com/jhullyAires/jhullyAires/blob/output/github-contribution-grid-snake.svg)
