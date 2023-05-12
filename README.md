@@ -17,7 +17,7 @@
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img align="center" alt="Java" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
-    <img align="right" alt="Jhully-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/185559cb038b3021107f7f67d19db9d5.gif">
+    <img align="right" alt="Jhully-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/9bdc40715cf856c4c4cd1bdeaa5b0b3c.gif">
     </div><br/>
 
 💖 mais uma apaixonada por programação 💖 <br/>
