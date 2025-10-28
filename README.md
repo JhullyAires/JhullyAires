@@ -6,7 +6,7 @@
 
 #
 
-<p align="center"> Sou graduada em Análise e Desenvolvimento de Sistemas pela Faculdade CDL (2023) e venho atuando na área de tecnologia desde 2021. Possuo experiência de nível pleno como desenvolvedora full stack, trabalhando com tecnologias como Java, Angular, Spring BOOT, Quarkus, GitFlow, PL/SQL Oracle e CI/CD com Jenkins, sempre em ambientes que adotam metodologias ágeis. Meu objetivo é fazer parte de uma comunidade que valorize o crescimento, onde eu possa contribuir ativamente e continuar a me desenvolver profissionalmente através de novos desafios.
+<p align="center"> Sou graduada em Análise e Desenvolvimento de Sistemas pela Faculdade CDL (2023) e venho atuando na área de tecnologia desde 2021. Possuo experiência de nível pleno como Desenvolvedora Full Stack, trabalhando com tecnologias como Java, Angular, Spring Boot, Quarkus, GitFlow, PL/SQL Oracle e CI/CD com Jenkins, sempre em ambientes que adotam metodologias ágeis. Meu objetivo é fazer parte de uma comunidade que valorize o crescimento, onde eu possa contribuir ativamente e continuar a me desenvolver profissionalmente através de novos desafios.
   
 #
 
@@ -32,9 +32,9 @@
     <img align="center" alt="Ionic" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"/>
     <img align="center" alt="Jenkins" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
     <img align="center" alt="PL/SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
-    <img align="right" alt="" height="190px" src="./study.gif">
 </div><br/>
 
 💖 mais uma apaixonada por programação 💖 <br/>
+<img align="left" alt="" height="190px" src="./study.gif">
 
 
