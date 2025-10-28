@@ -32,7 +32,7 @@
     <img align="center" alt="Ionic" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"/>
     <img align="center" alt="Jenkins" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
     <img align="center" alt="PL/SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
-    <img align="right" alt="" height="190px" src="./src/anime.gif">
+    <img align="right" alt="" height="190px" src="./study.gif">
 </div><br/>
 
 💖 mais uma apaixonada por programação 💖 <br/>
