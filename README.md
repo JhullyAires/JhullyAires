@@ -1,6 +1,6 @@
-<div align="left">
+<div align="center">
   <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Handjet&size=30&pause=1000&color=0CD7B6&width=435&lines=Ol%C3%A1!+Eu+sou+a+Jhully+Aires%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Handjet&size=35&pause=1000&color=0CD7B6&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+a+Jhully+Aires+%F0%9F%91%8B%F0%9F%8F%BC" alt="Typing SVG" />
   </a>
 </div>
 
@@ -34,7 +34,7 @@
     <img align="center" alt="PL/SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
 </div><br/>
 
-💖 mais uma apaixonada por programação 💖 <br/>
-<img align="left" alt="" height="190px" src="./study.gif">
+<p align="center"> 💖 apenas mais uma apaixonada por programação 💖 <br/>
+<img align="center" alt="" height="190px" src="./study.gif">
 
 
