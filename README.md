@@ -1,19 +1,40 @@
-### Olá! Eu sou a Jhully Aires👋
+<div align="left">
+  <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Handjet&size=30&pause=1000&color=0CD7B6&width=435&lines=Ol%C3%A1!+Eu+sou+a+Jhully+Aires%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jhullyeaires@hotmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhully-aires/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jhully.aires)
+#
 
-### 👩‍💻 Tecnologias que eu uso e estudo no meu dia a dia 💡
+<p align="center"> Sou graduada em Análise e Desenvolvimento de Sistemas pela Faculdade CDL (2023) e venho atuando na área de tecnologia desde 2021. Possuo experiência de nível pleno como desenvolvedora full stack, trabalhando com tecnologias como Java, Angular, Spring BOOT, Quarkus, GitFlow, PL/SQL Oracle e CI/CD com Jenkins, sempre em ambientes que adotam metodologias ágeis. Meu objetivo é fazer parte de uma comunidade que valorize o crescimento, onde eu possa contribuir ativamente e continuar a me desenvolver profissionalmente através de novos desafios.
+  
+#
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
-    <img align="right" alt="Jhully-gif" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/14b418a195a338aa071b1d2d0e0e9759.gif">
-    </div><br/>
+<h3 align="left">Connect with me!</h3>
+<div align="left">
+    
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](jhullyeaires@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jhully-aires/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://instagram.com/jhully.aires)
+
+</div>
+
+<h3 align="left">Stacks:</h3>
+<div style="display: inline_block">
+    <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+    <img align="center" alt="Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+    <img align="center" alt="Quarkus" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg"/>
+    <img align="center" alt="Maven" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>
+    <img align="center" alt="TypeScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+    <img align="center" alt="Angular" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
+    <img align="center" alt="HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+    <img align="center" alt="CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    <img align="center" alt="Ionic" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg"/>
+    <img align="center" alt="Jenkins" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
+    <img align="center" alt="PL/SQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
+    <img align="right" alt="" height="190px" src="./src/anime.gif">
+</div><br/>
 
 💖 mais uma apaixonada por programação 💖 <br/>
 
-👩‍💻 Atualmente trabalhando como Desenvolvedora Java Jr
+
